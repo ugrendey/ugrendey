@@ -1,5 +1,5 @@
-# Hi there, I'm Igor Kazennykh ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Risk+manager,+Data+Scientist)](https://git.io/typing-svg)
+# Hi there, I'm Igor Kazennykh !
+### Risk Manager, Data Scientist
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ugrendey)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugrendey)](https://git.io/streak-stats)
