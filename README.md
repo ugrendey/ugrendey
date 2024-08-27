@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Igor Kazennykh ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Risk+manager,+Data+Scientist)](https://git.io/typing-svg)
 
-<!--
-**ugrendey/ugrendey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=ugrendey)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ugrendey)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrendey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugrendey&repo=pd_model)](https://github.com/ugrendey/pd_model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugrendey&repo=Matching)](https://github.com/ugrendey/Matching)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugrendey&repo=StartUp)](https://github.com/ugrendey/StartUp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugrendey&repo=internet_store)](https://github.com/ugrendey/internet_store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugrendey&repo=kinoprokat)](https://github.com/ugrendey/kinoprokat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ugrendey&repo=buy_cows)](https://github.com/ugrendey/buy_cows)
